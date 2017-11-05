@@ -13,3 +13,7 @@ Invece di scrivere manualmente i prefissi per i browser utilizzeremo questo tool
 
 Tutte le configurazioni avverranno da EDIT > PREFERENCES, scegliendo "+install" dal menù, cerchiamo "autoprefixer" ed installiamolo.
 Per attivarlo "cmd+shift+p" e lanciarlo dalla console
+
+Oppure agggiungendo il comando al file di "keymap"
+'atom-text-editor':
+    'ctrl-shift-x': 'autoprefixer'
