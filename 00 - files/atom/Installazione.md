@@ -8,15 +8,8 @@ Per la loro installazione è necessario da terminale eseguire il comando
 https://atom.io/
 
 #Configurazione IDE
-Nei passi a seguire andremo ad installare alcuni tools:
-* JS linter: un tool che permetterà di evidenziare errori di sintassi e suggerirà come scrivere un codice più pulito
-* Autoprefixer: invece di scrivere manualmente i prefissi per i browser utilizzeremo questo tool
+Nei passi a seguire andremo ad installare Autoprefixer.
+Invece di scrivere manualmente i prefissi per i browser utilizzeremo questo tool
 
-Tutte le configurazioni avverranno da EDIT > PREFERENCES, scegliendo "+install" dal menù
-
-##JS linter
-nella casella di ricerca digitiamo "Flow-IDE" installiamolo insieme alle dipendenze richieste
-
-##CSS Autoprefixer
-Come precedentemente cerchiamo "autoprefixer" ed installiamo "autoprefixer"
-per attivarlo "cmd+shift+p" e lanciarlo dalla console
+Tutte le configurazioni avverranno da EDIT > PREFERENCES, scegliendo "+install" dal menù, cerchiamo "autoprefixer" ed installiamolo.
+Per attivarlo "cmd+shift+p" e lanciarlo dalla console
