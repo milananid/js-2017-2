@@ -1,2 +1,2 @@
-# js-2017-2
+# NID / CORSO JS / js-2017-2
 Javascript, anno secondo, 2017
