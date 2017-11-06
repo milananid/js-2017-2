@@ -5,15 +5,19 @@ Per la loro installazione è necessario da terminale eseguire il comando
 * in alternativa utlizzare il link seguente per scaricare lo zip https://github.com/milananid/js-2017-2/archive/master.zip
 
 #Installazione IDE
-https://atom.io/
+Sublimetext: https://www.sublimetext.com/3
 
 #Configurazione IDE
 Nei passi a seguire andremo ad installare Autoprefixer.
 Invece di scrivere manualmente i prefissi per i browser utilizzeremo questo tool
 
-Tutte le configurazioni avverranno da EDIT > PREFERENCES, scegliendo "+install" dal menù, cerchiamo "autoprefixer" ed installiamolo.
-Per attivarlo "cmd+shift+p" e lanciarlo dalla console
+Prima di tutto installeremo node.js
+https://nodejs.org/it/download/
 
-Oppure agggiungendo il comando al file di "keymap"
-'atom-text-editor':
-    'ctrl-shift-x': 'autoprefixer'
+Poi procederemo ad installare jsLint ed AutoPrefixer
+
+jsLint
+https://packagecontrol.io/packages/JSLint
+
+AutoPrefixer
+https://www.hongkiat.com/blog/css-automatic-vendor-prefix/
