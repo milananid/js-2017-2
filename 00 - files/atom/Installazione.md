@@ -3,6 +3,7 @@ i files progetto sono disponibili su github: https://github.com/milananid/js-201
 Per la loro installazione è necessario da terminale eseguire il comando
 * git clone https://github.com/milananid/js-2017-2.git
 * in alternativa utlizzare il link seguente per scaricare lo zip https://github.com/milananid/js-2017-2/archive/master.zip
+* documentazione : https://learn.jquery.com/
 
 #Installazione IDE
 Sublimetext: https://www.sublimetext.com/3
