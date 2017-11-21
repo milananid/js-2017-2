@@ -1,6 +1,9 @@
 ;(function (){
   'use strict' //https://developer.mozilla.org/it/docs/Web/JavaScript/Reference/Strict_mode
 
+
+
+
   console.log($('html').html());
 
   $('body').append('<a href="#">Niente</a>');
